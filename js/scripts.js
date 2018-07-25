@@ -533,7 +533,7 @@ function initSolonick() {
     //   mailchimp------------------
     $("#subscribe").ajaxChimp({
         language: "eng",
-        url: "../../../kwst.us18.list-manage.com/subscribe/post_6af9bd11.html"
+        url: "https://ardaerturk.us18.list-manage.com/subscribe/post?u=e2a2ccf77eaa428cf92cff961&amp;id=358c58c178"
     });
     $.ajaxChimp.translations.eng = {
         submit: "Submitting...",
